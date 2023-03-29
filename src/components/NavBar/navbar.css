@@ -1,0 +1,12 @@
+.menu {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    background-image: linear-gradient( cyan, silver);
+    top: 0px;
+    display: flex;
+    justify-content: space-around;
+    position: static;
+    width: 100%;
+    border: 2px solid black;
+}
